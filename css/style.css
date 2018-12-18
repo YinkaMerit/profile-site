@@ -8,8 +8,15 @@
 
 body{
   background-color: black !important;
+}
+
+header a #logo {
+  width: 80px;
+  height: 40px;
+  border-radius: 5%;
 
 }
+
 /*
 header .arrow {
     position: absolute;
